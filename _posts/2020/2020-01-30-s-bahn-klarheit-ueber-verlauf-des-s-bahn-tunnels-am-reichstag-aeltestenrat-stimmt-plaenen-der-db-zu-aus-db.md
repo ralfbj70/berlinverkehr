@@ -1,0 +1,18 @@
+---
+layout: post
+title: S-Bahn: Klarheit über Verlauf des S-Bahn-Tunnels am Reichstag Ältestenrat stimmt Plänen der DB zu, aus DB
+date: 2020-01-30 19:03
+author: ralfbj70
+comments: true
+categories: [Bahnhöfe + Stationen, Europacity, Infrastruktur, Interimsbahnsteig, Perleberger, Regierungsviertel, S-Bahn, S21, Trassenführung, Tunnel]
+---
+https://www.deutschebahn.com/pr-berlin-de/aktuell/presseinformationen/Klarheit-ueber-Verlauf-des-S-Bahn-Tunnels-am-Reichstag-4848228
+<h2 style="font-weight: 500;">Erste Planung für zusätzliche Station in der Europacity beauftragt</h2>
+<p style="font-weight: 400;">Die Kommission des Ältestenrates für Bau- und Raumangelegenheiten des Deutschen Bundestages, das Land Berlin und die Deutsche Bahn haben sich gestern Abend über den Verlauf des neuen S-Bahn-Tunnels im #Regierungsviertel geeinigt. Die DB plant, die #Tunnel für die neue #S-Bahn-Strecke ab dem Hauptbahnhof in zwei Röhren östlich und westlich am Reichstagsgebäude vorbeizuführen. Die #Trassenführung wurde dabei angepasst. Die Standsicherheit der Parlamentsgebäude während der Bauarbeiten ist somit gewährleistet und der  parlamentarische Betrieb kann ohne wesentliche Einschränkungen fortgesetzt werden.</p>
+<p style="font-weight: 400;"><b><strong>Enak Ferlemann, Parlamentarischer Staatssekretär beim Bundesminister für Verkehr und digitale Infrastruktur:</strong></b> „Ich freue mich, dass die DB Netz AG und der Deutsche Bundestag, vertreten durch den Parlamentsvizepräsidenten Wolfgang Kubicki MdB, unter meiner Vermittlung zu einer Lösung für den #S-Bahntunnel am Reichstagsgebäude gelangt sind. Die Lösung ist hervorragend für das Besucherzentrum des Bundestages und die Erfüllung der Mobilitätsbedürfnisse in der Hauptstadt. Mein Dank gilt allen Beteiligten für die Kompromissbereitschaft.“</p>
+<p style="font-weight: 400;">„Die Bedenken des Bundestages hinsichtlich der Statik des Reichstagsgebäudes konnten endlich ausgeräumt werden“, freut sich der <b><strong>Vorsitzende der Baukommission des Bundestages, Vizepräsident Wolfgang Kubicki</strong></b>. „Der Weg für die Fortsetzung der S 21 ist damit frei. Wir erwarten nun auch die Zustimmung der Deutschen Bahn zum Bauvorhaben des Besucherinformationszentrums.“</p>
+<p style="font-weight: 400;"><b><strong>Ingmar Streese, Staatssekretär für Verkehr in der Senatsverwaltung für Umwelt, Verkehr und Klimaschutz:</strong></b> „Mit der einvernehmlichen Lösung zum Streckenverlauf des zweiten Bauabschnitts hat die neue Nord-Süd-Verbindung der S-Bahn eine wesentliche Hürde genommen. Die #S21 ist für Berlin ein sehr wichtiges Projekt, das die innerstädtischen Verkehrsadern spürbar entlasten wird.“</p>
+<p style="font-weight: 400;"><b><strong>Alexander Kaczmarek, Konzernbevollmächtigter der DB für das Land Berlin:</strong></b> „Mit der Zustimmung der Baukommission des Ältestenrates haben wir jetzt die Möglichkeit, zügig weiter zu planen und zukünftig die baulichen Vorleistungen zwischen Potsdamer Platz und Brandenburger Tor aus den dreißiger Jahren zu nutzen.“</p>
+<p style="font-weight: 400;">Im nördlichen Bauabschnitt soll die erste S-Bahn im Sommer 2021 am #Interimsbahnsteig Hauptbahnhof halten. Nach der Bewertung auf Basis einer Nutzen-Kosten-Analyse soll  ein zusätzlicher Halt an der #Perleberger Brücke bestellt werden. Damit kein Verzug im Gesamtprojekt auftritt, hat sich die Senatsverwaltung dafür entschieden, bereits jetzt gemeinsam mit der Deutschen Bahn Vorsorgemaßnahmen für diese neue Station in der #Europacity einzuleiten.</p>
+<p style="font-weight: 400;">Informationen und Grafiken zum Gesamtvorhaben:</p>
+<p style="font-weight: 400;"><a href="https://bauprojekte.deutschebahn.com/p/berlin-s21">https://bauprojekte.deutschebahn.com/p/berlin-s21</a></p>
