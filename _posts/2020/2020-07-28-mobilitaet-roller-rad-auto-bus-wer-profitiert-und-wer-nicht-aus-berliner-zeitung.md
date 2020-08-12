@@ -1,0 +1,12 @@
+---
+layout: post
+title: Mobilität : Roller, Rad, Auto, Bus: Wer profitiert und wer nicht, aus Berliner Zeitung
+date: 2020-07-28 19:50
+author: ralfbj70
+comments: true
+categories: [Fahrrad, Fahrrädern, Fortbewegung, Leihautos, Mobilität, Mobilitätsdienste, Nextbike, Tretrollern, Verkehrsexperte]
+---
+https://www.berliner-zeitung.de/mensch-metropole/roller-rad-auto-bus-wer-in-der-krise-profitiert-und-wer-nicht-li.95553
+<p class="a-paragraph" data-t-name="Lead Paragraph">Plötzlich war alles ganz entspannt: Kein Gedränge mehr in U-Bahnen und Bussen, kein Stau auf dem Weg zur Arbeit, keine Touristen, die auf E-Tretrollern herumkurven. Die Corona-Krise hatte die Art der #Fortbewegung auf den Kopf gestellt. Viele Menschen arbeiteten plötzlich zu Hause. Raus gingen sie nur noch zum Einkaufen. Straßen, Bürgersteige und Radwege blieben weitgehend leer. „Das sind allerdings nur Momentaufnahmen. Was sich von den Veränderungen langfristig einpendelt, steht auf einem anderen Blatt“, sagt der #Verkehrsexperte Andreas Nienhaus. Allmählich kehren die Nutzer zurück. Busse, Bahnen und Straßen werden voller. Die Anbieter von #Tretrollern, #Fahrrädern und #Leihautos berichten einheitlich von wieder steigenden Nutzerzahlen. Doch auf dem hart umkämpften Markt der #Mobilitätsdienste - da sind sich viele Experten einig - wird es Veränderungen geben, Gewinner und Verlierer.</p>
+<p class="a-paragraph" data-t-name="Paragraph">Zu Ersteren gehört das #Fahrrad. Die Zweiradindustrie vermeldet für Mai die höchsten Verkaufszahlen ihrer Geschichte innerhalb eines Monats. Angesichts des sich fortsetzenden Verkaufsbooms liegt es nahe, dass auch der Leihradmarkt profitieren dürfte: „Unsere Neuregistrierungen sind in einigen Städten durch die Decke gegangen“, bestätigt Mareike Rauchhaus, Sprecherin des Leihradanbieters #Nextbike. Die Kommunen hätten den Trend erkannt: „Große Städte investieren derzeit massiv und schaffen eine deutlich bessere Fahrradinfrastruktur“, sagt van Pappelendam und verweist auf Pop-up-Fahrradwege wie in Berlin oder Köln. „Manche überlegen, Autos gleich ganz aus Stadtzentren zu verbannen - etwa Paris.“</p>
+<p class="a-paragraph" data-t-name="Paragraph">Doch besonders in Deutschland ist der Kampf um die Straße noch lange nicht entschieden. „Die Industrie selbst geht davon aus, dass das Auto ein Stück weit der Gewinner der Krise sein wird“, sagt Verkehrsexperte Nienhaus. Auch wenn die Zulassungszahlen von Neuwagen in ganz Europa massiv ...</p>
