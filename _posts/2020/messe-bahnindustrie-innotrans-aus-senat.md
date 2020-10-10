@@ -8,7 +8,9 @@ layout: post
 link: >
   https://archiv.berliner-verkehr.de/2020/09/29/messe-bahnindustrie-innotrans-aus-senat/
 published: true
-tags: [ ]
+tags:
+  - InnoTrans
+  - Messe
 categories:
   - Bahnindustrie
   - Messe
