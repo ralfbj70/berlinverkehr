@@ -18,7 +18,7 @@ www.berlin.de
 
 1. Wie haben sich a) die Fachbesucherzahlen b) die Zahl der Aussteller und c) die genutzte Nettofläche anlässlich der INNOTRANS seit dem Jahr 2010 in Berlin entwickelt?
 Zu 1.:
-Seit dem Jahr 2010 hat sich die InnoTrans mit Blick auf a) die Fachbesucherzahlen,
+Seit dem Jahr 2010 hat sich die #InnoTrans mit Blick auf a) die Fachbesucherzahlen,
 b) die Zahl der Ausstellenden und c) die genutzte Nettofläche wie folgt entwickelt:
 <table>
 <tbody>
@@ -69,7 +69,7 @@ statt.
 anlässlich der INNOTRANS 2018 in Berlin statt?
 2
 Zu 3.:
-Diese Daten liegen der Messe Berlin GmbH nicht vor. Auch die Berlin Tourismus &amp;
+Diese Daten liegen der #Messe Berlin GmbH nicht vor. Auch die Berlin Tourismus &amp;
 Kongress GmbH teilte auf Nachfrage mit, dass sie diese Daten nicht erhebt.
 4. Welche weiteren Umwegrentabilitätseffekte – etwa Gastronomie- und Einzelhandelsumsätze – in
 welcher geschätzten Höhe können mit den Fachbesuchern der INNOTRANS 2018
