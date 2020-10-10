@@ -10,7 +10,6 @@ link: >
 published: true
 tags:
   - InnoTrans
-  - Messe
 categories:
   - Bahnindustrie
   - Messe
