@@ -13,7 +13,5 @@ tags: [ ]
 categories:
   - Bahnverkehr
   - Fahrzeuge
-  - IFTTT
-  - Instagram
 ---
 <div><img src='https://scontent.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/88220502_196209268361395_5036114915786356061_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=n1Wey3fCnEAAX9wHNC-&oh=810ee0f7db7f47317b08c91ce8180710&oe=5E9686F2' style='max-width:600px;' /><br/><div>View on Instagram https://ift.tt/2TcFzmc</div></div>
