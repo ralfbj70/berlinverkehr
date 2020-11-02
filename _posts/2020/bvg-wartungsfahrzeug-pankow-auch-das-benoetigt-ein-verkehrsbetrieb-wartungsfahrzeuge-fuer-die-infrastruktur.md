@@ -13,7 +13,5 @@ tags: [ ]
 categories:
   - BVG
   - Fahrzeuge
-  - IFTTT
-  - Instagram
 ---
 <div><img src='https://scontent.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/87694530_211196909937271_2239150560887950435_n.jpg?_nc_ht=scontent.cdninstagram.com&_nc_ohc=j5TjzEM4gpsAX_WjqGR&oh=a7211ca4b998e35b3c035237def76c1b&oe=5E94070B' style='max-width:600px;' /><br/><div>View on Instagram https://ift.tt/39nPdIo</div></div>
