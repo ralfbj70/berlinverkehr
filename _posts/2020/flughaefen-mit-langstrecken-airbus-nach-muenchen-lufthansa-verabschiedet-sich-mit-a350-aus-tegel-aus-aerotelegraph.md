@@ -9,9 +9,20 @@ layout: post
 link: >
   https://archiv.berliner-verkehr.de/2020/10/14/flughaefen-mit-langstrecken-airbus-nach-muenchen-lufthansa-verabschiedet-sich-mit-a350-aus-tegel-aus-aerotelegraph/
 published: true
-tags: [ ]
+tags:
+  - A320
+  - A350
+  - Airport
+  - Fluggerät
+  - Langstreckenflieger
+  - LH1955
+  - Lufthansa
+  - München
+  - Paris
+  - Schließung
+  - Tegel
 categories:
-  - Uncategorized
+  - Flughäfen
 ---
 https://www.aerotelegraph.com/lufthansa-verabschiedet-sich-mit-airbus-a350-aus-berlin-tegel
 
