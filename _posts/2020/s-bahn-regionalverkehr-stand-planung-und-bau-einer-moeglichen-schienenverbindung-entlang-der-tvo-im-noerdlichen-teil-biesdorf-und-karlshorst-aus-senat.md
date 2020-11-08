@@ -9,7 +9,16 @@ layout: post
 link: >
   https://archiv.berliner-verkehr.de/2020/10/29/s-bahn-regionalverkehr-stand-planung-und-bau-einer-moeglichen-schienenverbindung-entlang-der-tvo-im-noerdlichen-teil-biesdorf-und-karlshorst-aus-senat/
 published: true
-tags: [ ]
+tags:
+  - Finanzierung
+  - i2030
+  - Nahverkehrstangente
+  - NVT
+  - Regionalverkehr
+  - Straßenverbindung
+  - Systementscheid
+  - Tangentialen
+  - TVO
 categories:
   - Infrastruktur
   - Regionalverkehr
