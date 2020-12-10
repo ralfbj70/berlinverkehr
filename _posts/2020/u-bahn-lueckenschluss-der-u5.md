@@ -3,10 +3,10 @@ ID: 127423
 post_title: 'U-Bahn: Lückenschluss der U5'
 post_name: u-bahn-lueckenschluss-der-u5
 author: Ralf Reineke
-post_date: 2020-12-09 07:44:04
+post_date: 2020-12-04 07:44:04
 layout: post
 link: >
-  https://archiv.berliner-verkehr.de/2020/12/09/u-bahn-lueckenschluss-der-u5/
+  https://archiv.berliner-verkehr.de/2020/12/04/u-bahn-lueckenschluss-der-u5/
 published: true
 tags: [ ]
 categories:
