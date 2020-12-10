@@ -6,10 +6,10 @@ post_title: >
 post_name: >
   u-bahn-zug-5002-am-tag-des-lueckenschluss-unter-den-linden
 author: Ralf Reineke
-post_date: 2020-12-09 07:49:12
+post_date: 2020-12-04 07:49:12
 layout: post
 link: >
-  https://archiv.berliner-verkehr.de/2020/12/09/u-bahn-zug-5002-am-tag-des-lueckenschluss-unter-den-linden/
+  https://archiv.berliner-verkehr.de/2020/12/04/u-bahn-zug-5002-am-tag-des-lueckenschluss-unter-den-linden/
 published: true
 tags: [ ]
 categories:
